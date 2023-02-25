@@ -1,0 +1,14 @@
+C:\Users\JHONATAN\Desktop\Programacion I\Tarea3JhonatanHenriquez\Tarea3JhonatanHenriquez\bin\Debug\netcoreapp3.1\Tarea3JhonatanHenriquez.exe
+C:\Users\JHONATAN\Desktop\Programacion I\Tarea3JhonatanHenriquez\Tarea3JhonatanHenriquez\bin\Debug\netcoreapp3.1\Tarea3JhonatanHenriquez.deps.json
+C:\Users\JHONATAN\Desktop\Programacion I\Tarea3JhonatanHenriquez\Tarea3JhonatanHenriquez\bin\Debug\netcoreapp3.1\Tarea3JhonatanHenriquez.runtimeconfig.json
+C:\Users\JHONATAN\Desktop\Programacion I\Tarea3JhonatanHenriquez\Tarea3JhonatanHenriquez\bin\Debug\netcoreapp3.1\Tarea3JhonatanHenriquez.runtimeconfig.dev.json
+C:\Users\JHONATAN\Desktop\Programacion I\Tarea3JhonatanHenriquez\Tarea3JhonatanHenriquez\bin\Debug\netcoreapp3.1\Tarea3JhonatanHenriquez.dll
+C:\Users\JHONATAN\Desktop\Programacion I\Tarea3JhonatanHenriquez\Tarea3JhonatanHenriquez\bin\Debug\netcoreapp3.1\Tarea3JhonatanHenriquez.pdb
+C:\Users\JHONATAN\Desktop\Programacion I\Tarea3JhonatanHenriquez\Tarea3JhonatanHenriquez\obj\Debug\netcoreapp3.1\Tarea3JhonatanHenriquez.csproj.AssemblyReference.cache
+C:\Users\JHONATAN\Desktop\Programacion I\Tarea3JhonatanHenriquez\Tarea3JhonatanHenriquez\obj\Debug\netcoreapp3.1\Tarea3JhonatanHenriquez.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JHONATAN\Desktop\Programacion I\Tarea3JhonatanHenriquez\Tarea3JhonatanHenriquez\obj\Debug\netcoreapp3.1\Tarea3JhonatanHenriquez.AssemblyInfoInputs.cache
+C:\Users\JHONATAN\Desktop\Programacion I\Tarea3JhonatanHenriquez\Tarea3JhonatanHenriquez\obj\Debug\netcoreapp3.1\Tarea3JhonatanHenriquez.AssemblyInfo.cs
+C:\Users\JHONATAN\Desktop\Programacion I\Tarea3JhonatanHenriquez\Tarea3JhonatanHenriquez\obj\Debug\netcoreapp3.1\Tarea3JhonatanHenriquez.csproj.CoreCompileInputs.cache
+C:\Users\JHONATAN\Desktop\Programacion I\Tarea3JhonatanHenriquez\Tarea3JhonatanHenriquez\obj\Debug\netcoreapp3.1\Tarea3JhonatanHenriquez.dll
+C:\Users\JHONATAN\Desktop\Programacion I\Tarea3JhonatanHenriquez\Tarea3JhonatanHenriquez\obj\Debug\netcoreapp3.1\Tarea3JhonatanHenriquez.pdb
+C:\Users\JHONATAN\Desktop\Programacion I\Tarea3JhonatanHenriquez\Tarea3JhonatanHenriquez\obj\Debug\netcoreapp3.1\Tarea3JhonatanHenriquez.genruntimeconfig.cache
